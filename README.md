@@ -5,11 +5,11 @@
 Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos del sitio web SummitPost y generar un dataset.
 
 ## Miembros del equipo
-La actividad ha sido realizada de manera individual por Eduardo Béjar.
+La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 
 ## Archivos incluidos
-- edobejar-PRA1.ipynb: Código jupiter notebook que hace el web scraping.
-- montanas.csv: Dataset generado por el código anterior.
+- **edobejar-PRA1.ipynb**: Código jupiter notebook que hace el web scraping.
+- **montanas.csv**: Dataset generado por el código anterior.
 
 ## Recursos
 - SummitPost https://www.summitpost.org/
