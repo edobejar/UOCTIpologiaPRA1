@@ -9,7 +9,7 @@ La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 
 ## Archivos incluidos
 - **edobejar-PRA1.ipynb**: Código jupiter notebook que hace el web scraping.
-- **montanas.csv**: Dataset generado por el código anterior.
+- **montanasSummitPost.csv**: Dataset generado por el código anterior.
 
 ## Recursos
 - SummitPost https://www.summitpost.org/
